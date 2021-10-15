@@ -1,0 +1,50 @@
+.home {
+    
+    height: 100vh;
+    
+}
+.home_container {
+    height: 100%;
+    background-image:url('../../assets/homepage.jpg');
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center;
+}
+
+.home_description {
+    width:40%;
+    background: white;
+    height: 100%;
+    opacity: 0.8;
+    float: right;
+}
+
+.home_title {
+    text-align: center;
+    margin-top: 30%;
+    font-family: 'Raleway', sans-serif;
+}
+
+.home_title h1 {
+    font-size: 4.5rem;
+
+}
+
+.home_title button {
+    margin-top: 50px;
+    font-size: 2rem;
+    background: transparent;
+    border: none;
+    border: 4px solid black;
+    padding: 10px 10px;
+    cursor: pointer;
+}
+
+.home_title button:hover {
+    transform: scale(1.05);
+    color: black;
+}
+
+.home_title button:active {
+    transform: scale(1.0);
+}
