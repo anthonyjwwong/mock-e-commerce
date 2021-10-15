@@ -15,4 +15,6 @@ This is a mockup of a e-commerce website for furnitures.
 2. Netlify for hosting. 
 3. Stripe for payment system.
 
+
 ### TBC..
+Image taken from Pixabay.com
